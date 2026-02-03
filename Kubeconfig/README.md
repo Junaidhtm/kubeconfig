@@ -4,8 +4,6 @@
 
 A **kubeconfig file** is a configuration file that contains all the information needed to connect to and authenticate with Kubernetes clusters.
 
-> **Note:** The term "kubeconfig" is a *generic name* for these configuration files. It doesn't mean there's literally a file named `kubeconfig`. The default file is actually named `config`.
-
 The `kubectl` command-line tool uses this file to:
 - Find which cluster to connect to
 - Authenticate the user
