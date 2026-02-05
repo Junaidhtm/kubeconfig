@@ -1,0 +1,4 @@
+apiVerson : v1
+Kind : Config
+clusters: 
+- 
